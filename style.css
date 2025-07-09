@@ -1,0 +1,36 @@
+#bg-border:hover{
+    box-shadow:2px 2px 10px teal;
+    color: teal;
+}
+#box-menu{
+    background-color: azure;
+}
+#bg-border{
+    text-decoration: none;
+}
+#mobile-menu-button:hover{
+    box-shadow:1px 1px 5px black;
+    opacity:0.5;
+}
+/* Tailwind custom height override (optional) */
+@media (min-width: 768px) {
+    .custom-height {
+        min-height: 440px; /* adjust as needed */
+    }
+}
+.nav-link:hover {
+    color: #f59e0b;
+}
+        
+.mission-card:hover {
+transform: translateY(-5px);
+box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+        
+.facility-card {
+    transition: all 0.3s ease;
+}
+        
+.facility-card:hover {
+    transform: scale(1.03);
+}
