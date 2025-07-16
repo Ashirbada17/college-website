@@ -22,8 +22,8 @@ Welcome to the official repository of the **SCMS College Website** — a respons
 
 ## 🖼️ Live Preview
 
-🔗 [Live Website Link](https://your-deployment-link.com)  
-*(Replace this with your actual deployed link)*
+🔗 [Live Website Link](https://college-website-tau-lemon.vercel.app/)  
+
 
 ## 📁 Project Structure
 
